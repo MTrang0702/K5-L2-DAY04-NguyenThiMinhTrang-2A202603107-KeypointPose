@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603107",
+ "ten": "NguyenThiMinhTrang",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "minhtrang",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000137767.jpg",
+  "000000156069.jpg",
+  "000000175703.jpg",
+  "000000294329.jpg",
+  "000000455536.jpg",
+  "000000147780.jpg",
+  "000000521817.jpg",
+  "000000580257.jpg",
+  "000000123544.jpg",
+  "000000515309.jpg",
+  "000000167027.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_155465.jpg",
+  "face_232598.jpg",
+  "face_85624.jpg",
+  "face_145621.jpg",
+  "face_415073.jpg",
+  "face_178208.jpg",
+  "face_256814.jpg",
+  "face_159828.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 5,
+   "job_id": 5,
+   "task_name": "persons-NguyenThiMinhTrang"
+  },
+  "faces": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "faces-NguyenThiMinhTrang"
+  }
+ }
+}
